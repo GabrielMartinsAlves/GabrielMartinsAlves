@@ -1,12 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261e36&height=150&section=header&text=Hello%2C%20I%27m%20Gabriel%20Martins%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=FFF&fontAlignY=30" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Gabriel+Henrique+Martins+Alves;I'm+19+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP+-+Brazil;I'm+a+Web+Developer" alt="Typing SVG" /></a>
-
 </br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-alves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenrique0377@gmail.com?subject=Message%20from%20some%20GitHub%20user&body=Hello%20Gabriel!)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511953015481&text=Ol%C3%A1%2C%20Gabriel!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511967756573&text=Ol%C3%A1%2C%20Gabriel!)
 
 ---
 
@@ -14,7 +13,7 @@
 
 <div align="center">  
   <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsAlves&show_icons=true&theme=tokyonight&ring_color=FFD700&border_radius=5&title_color=FFD700&icon_color=FFD700" alt="Gabriel Martins github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&layout=compact&&theme=tokyonight&title_color=FFD700&text_bold=true&border_radius=5&card_width=40%" />
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&hide_progress=true&layout=compact&&theme=tokyonight&title_color=FFD700&text_bold=true&border_radius=5&card_width=40%" />
 </div>
 
 </br>
