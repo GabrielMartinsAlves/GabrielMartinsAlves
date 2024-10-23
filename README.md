@@ -36,4 +36,4 @@
 I am a student of Computer Engineering at the Institute of Technology and Leadership. Driven by my passion for technology and education, I constantly seek to expand my knowledge in areas such as Project Management, Software Architecture, Business, Mathematics, and User-Centered Design. I am engaged in PBL projects, where I apply theoretical skills to solve real-world problems at Inteli.
 My goal goes beyond personal success; I aspire to be a global change agent, promoting equal access to education and information. I aim to reach leadership positions in the tech industry, using my influence to advocate for the cause of accessible technology and to broaden the impact of my initiatives.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#261e36&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261e36&height=100&section=footer" />
