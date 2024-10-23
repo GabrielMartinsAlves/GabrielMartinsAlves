@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261e36&height=150&section=header&text=Hello%2C%20I%27m%20Gabriel%20Martins%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=FFF&fontAlignY=30" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Gabriel+Hanrique+Martins+Alves;I'm+19+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP+-+Brazil;I'm+a+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Gabriel+Henrique+Martins+Alves;I'm+19+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP+-+Brazil;I'm+a+Web+Developer" alt="Typing SVG" /></a>
 
 </br>
 
