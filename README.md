@@ -1,14 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5012&height=150&section=header&text=Hello%2C%20I%27m%20Thiago%20Gomes%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=EEE&fontAlignY=30" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5012&height=150&section=header&text=Hello%2C%20I%27m%20Gabriel%20Martins%20%F0%9F%91%8B&fontSize=30&animation=fadeIn&fontColor=EEE&fontAlignY=30" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FB5012&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Thiago+Gomes+de+Almeida;I'm+18+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP+-+Brazil;I'm+a+Web+and+Mobile+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FB5012&size=35&center=true&vCenter=true&width=1000&lines=Welcome!;My+name+is+Gabriel+Hanrique+Martins+Alves;I'm+19+years+old;I'm+from+S%C3%A3o+Paulo%2C+SP+-+Brazil;I'm+a+Web+Developer" alt="Typing SVG" /></a>
 
 </br>
 
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=dark_blue)](https://thiagomes07.github.io/myPortfolio/)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagogomesalmeida/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiagogomesalmeida27@gmail.com?subject=Message%20from%20some%20GitHub%20user&body=Hello%20Thiago!)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511953015481&text=Ol%C3%A1%2C%20Thiago!)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomes07/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-alves/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenrique0377@gmail.com?subject=Message%20from%20some%20GitHub%20user&body=Hello%20Gabriel!)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511953015481&text=Ol%C3%A1%2C%20Gabriel!)
 
 ---
 
@@ -36,6 +34,7 @@
 
 </br>
 
-I am a highly motivated and dedicated systems development technician, passionate about technology and development. I have experience in creating mobile applications, web applications, and websites. I am capable of both web and mobile development. I possess important skills for professional success, including proactivity, curiosity, commitment, empathy, responsibility, and good writing and reading skills. In addition to certified courses, I have also taken many others without certification. I am confident that I can contribute with my technical background and interpersonal skills to develop innovative and efficient solutions for the challenges of the industry. I am excited to apply my knowledge and advance in my career.
+I am a student of Computer Engineering at the Institute of Technology and Leadership. Driven by my passion for technology and education, I constantly seek to expand my knowledge in areas such as Project Management, Software Architecture, Business, Mathematics, and User-Centered Design. I am engaged in PBL projects, where I apply theoretical skills to solve real-world problems at Inteli.
+My goal goes beyond personal success; I aspire to be a global change agent, promoting equal access to education and information. I aim to reach leadership positions in the tech industry, using my influence to advocate for the cause of accessible technology and to broaden the impact of my initiatives.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FB5012&height=100&section=footer" />
