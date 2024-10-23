@@ -13,8 +13,8 @@
 </br>
 
 <div align="center">  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsAlves&show_icons=true&theme=highcontrast&ring_color=FFD700&border_radius=5&title_color=FFD700&icon_color=FFD700" alt="Gabriel Martins github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&layout=compact&&theme=highcontrast&title_color=FFD700&text_bold=true&border_radius=5&card_width=40%" />
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsAlves&show_icons=true&theme=tokyonight&ring_color=FFD700&border_radius=5&title_color=FFD700&icon_color=FFD700" alt="Gabriel Martins github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&layout=compact&&theme=tokyonight&title_color=FFD700&text_bold=true&border_radius=5&card_width=40%" />
 </div>
 
 </br>
