@@ -5,7 +5,6 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-alves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenrique0377@gmail.com?subject=Message%20from%20some%20GitHub%20user&body=Hello%20Gabriel!)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5511967756573&text=Ol%C3%A1%2C%20Gabriel!)
 
 ---
 
@@ -51,7 +50,11 @@
 
 </br>
 
-I am a student of Computer Engineering at the Institute of Technology and Leadership. Driven by my passion for technology and education, I constantly seek to expand my knowledge in areas such as Project Management, Software Architecture, Business, Mathematics, and User-Centered Design. I am engaged in PBL projects, where I apply theoretical skills to solve real-world problems at Inteli.
-My goal goes beyond personal success; I aspire to be a global change agent, promoting equal access to education and information. I aim to reach leadership positions in the tech industry, using my influence to advocate for the cause of accessible technology and to broaden the impact of my initiatives.
+- Computer Engineering student at the Institute of Technology and Leadership (Inteli), passionate about technology and education.
+- Focused on Project Management, Software Architecture, Business, Mathematics, and User-Centered Design.
+- Engaged in Project-Based Learning (PBL) projects, applying theory to real-world problems.
+- Aspires to be a global change agent, advocating for equal access to education and information.
+- Aims for leadership roles in tech to drive the development of accessible technology.
+- Committed to continuous learning and contributing to open-source projects.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261e36&height=100&section=footer" />
