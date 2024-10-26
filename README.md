@@ -6,16 +6,7 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-alves/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenrique0377@gmail.com?subject=Message%20from%20some%20GitHub%20user&body=Hello%20Gabriel!)
 
----
-
-</br>
-
-<div align="center">  
-  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsAlves&show_icons=true&theme=tokyonight&ring_color=FFD700&border_radius=5&title_color=FFD700&icon_color=FFD700" alt="Gabriel Martins github stats" /> 
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&hide_progress=true&layout=compact&&theme=tokyonight&title_color=FFD700&text_bold=true&border_radius=5&card_width=40%" />
-</div>
-
-</br>
+<br>
 
 ---
 
@@ -56,5 +47,16 @@
 - Aspires to be a global change agent, advocating for equal access to education and information.
 - Aims for leadership roles in tech to drive the development of accessible technology.
 - Committed to continuous learning and contributing to open-source projects.
+
+---
+
+</br>
+
+<div align="center">  
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsAlves&show_icons=true&theme=tokyonight&ring_color=FFD700&border_radius=5&title_color=FFD700&icon_color=FFD700" alt="Gabriel Martins github stats" /> 
+  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&hide_progress=true&layout=compact&&theme=tokyonight&title_color=FFD700&text_bold=true&border_radius=5&card_width=40%" />
+</div>
+
+</br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=261e36&height=100&section=footer" />
