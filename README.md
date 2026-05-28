@@ -19,7 +19,7 @@ I build systems where latency, reliability, and cost are not afterthoughts — f
 const gabriel = {
   role: "Computer Engineer & Architecture Consultant",
   focus: ["Low-latency systems", "IoT / Hardware", "Distributed backends", "FinTech"],
-  currently: ["Backend @ Banco PAN", "IoT/Telemetry consulting"],
+  currently: ["Backend @ Banco PAN", "IoT / Telemetry consulting"],
   approach: ["Spec-driven development", "Disciplined AI integration", "Business-impact refactoring"],
   goal: "Senior Software Engineering — international, remote",
 };
@@ -38,29 +38,22 @@ const gabriel = {
 ### // stack
 
 **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 **Backend & Cloud**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Messaging**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ---
 
 <div align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_HANDLE&show_icons=true&hide_border=true&theme=github_dark&icon_color=10B981&title_color=10B981&text_color=E5E7EB&bg_color=0D1117" />
-  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_HANDLE&hide=html,css&layout=compact&hide_border=true&theme=github_dark&title_color=10B981&text_color=E5E7EB&bg_color=0D1117" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=GabrielMartinsAlves&show_icons=true&hide_border=true&theme=github_dark&icon_color=10B981&title_color=10B981&text_color=E5E7EB&bg_color=0D1117" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielMartinsAlves&hide=html,css&layout=compact&hide_border=true&theme=github_dark&title_color=10B981&text_color=E5E7EB&bg_color=0D1117" />
 </div>
 
 <br/>
