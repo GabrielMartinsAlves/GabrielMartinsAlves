@@ -4,7 +4,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-alves/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=ofr-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-martins-alves/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhenrique0377@gmail.com?subject=Reaching%20out%20from%20GitHub)
 
 ---
@@ -15,7 +15,7 @@ Computer Engineering student at **Inteli** and **Architecture Consultant**, work
 
 I build systems where latency, reliability, and cost are not afterthoughts — from **bare-metal IoT integration** to **distributed cloud backends** and **mission-critical banking infrastructure**. I design from scratch end-to-end, and I refactor legacy systems with an eye on financial impact.
 
-```ts
+\`\`\`ts
 const gabriel = {
   role: "Computer Engineer & Architecture Consultant",
   focus: ["Low-latency systems", "IoT / Hardware", "Distributed backends", "FinTech"],
@@ -23,7 +23,7 @@ const gabriel = {
   approach: ["Spec-driven development", "Disciplined AI integration", "Business-impact refactoring"],
   goal: "Senior Software Engineering — international, remote",
 };
-```
+\`\`\`
 
 ---
 
